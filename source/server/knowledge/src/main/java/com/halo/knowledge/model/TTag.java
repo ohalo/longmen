@@ -5,6 +5,11 @@ import java.io.Serializable;
 public class TTag implements Serializable {
 
     /**
+	 * 
+	 */
+	private static final long serialVersionUID = 7942798881327287693L;
+
+	/**
      * 唯一标识
      */
     private Integer id;

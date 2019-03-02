@@ -4,7 +4,12 @@ import java.io.Serializable;
 
 public class TQuestionAnswer implements Serializable {
 
-    private Integer id;
+    /**
+	 * 
+	 */
+	private static final long serialVersionUID = -130063365212417160L;
+
+	private Integer id;
 
     private String remark;
 
