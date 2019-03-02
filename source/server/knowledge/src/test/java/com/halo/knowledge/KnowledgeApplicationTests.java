@@ -1,4 +1,4 @@
-package com.halo.knowledge.knowledge;
+package com.halo.knowledge;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
