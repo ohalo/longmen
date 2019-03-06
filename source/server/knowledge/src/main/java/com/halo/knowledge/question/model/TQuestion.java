@@ -1,4 +1,4 @@
-package com.halo.knowledge.model;
+package com.halo.knowledge.question.model;
 
 import java.io.Serializable;
 
